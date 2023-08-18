@@ -24,11 +24,11 @@
 
 #### Medicine Inventory
 
-![Medicine inventory]([demo/medicine_inventory.png](https://github.com/shoaib9430/Health-App/assets/48713756/76cb0ca5-913e-43e4-8ba6-38c48ff56fe5))
+![Medicine inventory](https://github.com/shoaib9430/Health-App/assets/48713756/b069fe56-a544-4199-adc0-784a2d46eb86)
 
 #### Vital Dashboard
 
-![Vital Dashboard]([demo/vital_dashboard.png](https://github.com/shoaib9430/Health-App/assets/48713756/3151b291-1480-4e20-ad88-b924971e3c67))
+![Vital Dashboard](https://github.com/shoaib9430/Health-App/assets/48713756/bafc8350-c554-4d5f-89af-93c95d2fa704)
 
 ### Tech Stack
 
