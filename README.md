@@ -1,4 +1,4 @@
-# SelfHelp
+# Health Reminder
 
 > Web Application designed to track personal health and medcicines.
 > The app allows you to effortlessly track your vital health signs and monitor medication routines.
