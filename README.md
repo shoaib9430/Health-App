@@ -8,8 +8,6 @@
 
 ## [Hosted URL link](https://selfhelp-india.netlify.app/)
 
-### [Github repository of the backend API.](https://github.com/sandipansaha1998/selfhelp_api)
-
 ### Features
 
 - [x] User session management and authentication.
@@ -18,23 +16,19 @@
 - [x] Medicine List for current date.
 - [x] Single tap to mark a medication dosage completed.
 
-### Demo
-
-![Demo](demo/demo.gif)
-
 ### Screen Shots
 
 #### Login
 
-![Login](demo/login.png)
+![Login](https://github.com/shoaib9430/Health-App/assets/48713756/1dacdea5-bca8-4d85-9db2-978f7be648cf)
 
 #### Medicine Inventory
 
-![Medicine inventory](demo/medicine_inventory.png)
+![Medicine inventory]([demo/medicine_inventory.png](https://github.com/shoaib9430/Health-App/assets/48713756/76cb0ca5-913e-43e4-8ba6-38c48ff56fe5))
 
 #### Vital Dashboard
 
-![Vital Dashboard](demo/vital_dashboard.png)
+![Vital Dashboard]([demo/vital_dashboard.png](https://github.com/shoaib9430/Health-App/assets/48713756/3151b291-1480-4e20-ad88-b924971e3c67))
 
 ### Tech Stack
 
